@@ -9,7 +9,7 @@
     
     <!-- Recommended minimum -->
     <meta property="og:title" content="Sayanta">
-    <meta property="og:description" content="Sayanta' Site">
+    <meta property="og:description" content="Sayanta's Site">
     <meta property="og:image" content="img/summary_large_image.png">
     <meta name="twitter:card" content="summary">
     
@@ -87,7 +87,7 @@
 	    <!-- <special-quote> -->
 	      <!-- ❝ Life ki lgi pdi h, mere life ki...! ❞  -->
 	    <!-- </special-quote> -->
-	  </aside>
+	  <!-- </aside> -->
 
 	  <p style="color:var(--highlight)">  </p>
 
@@ -117,12 +117,12 @@
 	  </div>
 	</article>
 	       
-	<article>
-	  <div>
-	    <p> Be the part of <a href="https://gnulinuxindia.org/" target="_blank" rel="noopener">https://gnulinuxindia.org</a></p>
-	    
-	  </div>
-	</article>
+	<!-- <article> -->
+	<!--   <div> -->
+	<!--     <p> Be the part of <a href="https://gnulinuxindia.org/" target="_blank" rel="noopener">https://gnulinuxindia.org</a></p> -->
+	<!--      -->
+	<!--   </div> -->
+	<!-- </article> -->
 	
       </section>
       
@@ -159,23 +159,19 @@
 	</article>
 
 
-	<article>
-	  <h2> 💡 Interesting things about this Site. </h2>
-	  <div>
-	    <ul>
-	      <li> You'd be surprised but Yes, Its a Single HTML File.<label for="also">read more</label><input type="checkbox" id="also"><small> <p>This website is a single <abbr title="Hypertext Markup Language">HTML</abbr> file. It simply uses the <code>#anchor</code> suffix (from <a href="http://info.cern.ch/hypertext/WWW/Addressing/Addressing.html" target="_blank" rel="noopener noreferer">1992</a>) and the <code>:target</code> <abbr title="Cascading Style Sheets">CSS</abbr> selector to show and hide pages/content.</p></small> </li>
-	      <li> The site inspired by minimal yet responsive layout of John Does's Site from <a href="https://john-doe.neocities.org" target="_blank" rel="noopener noreferrer">Neocities</a>.<label for="based">expand</label><input type="checkbox" id="based"> <small> <p> This website is databaseless, javascriptless, and builds#$t-free, so you can edit your website with a text editor and upload it somewhere like a normal person.</p></small> </li>
-	      <li> Every Link on this site opens in new tab. <label for="tabs">but why</label><input type="checkbox" id="tabs"><small>You can always opens links on any site with SHIFT+CLICKS but in this site you dont have to. <textarea readonly rows="2"> <a href="<link>" target="_blank" rel="noopener noreferrer">link</a></textarea> To avoid Security concerns with <code>target="_blank"</code> I strongly recommend that you always add <code>rel="noreferrer noopener"</code> to the anchor element to prevent a type of phishing known as <a href="https://en.wikipedia.org/wiki/Tabnabbing" target="_blank" rel="noopener noreferer">tabnabbing</a>.<label for="tabnab">explain</label><input type="checkbox" id="tabnab"><small><ul> <li> <a href="https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/" target="_blank" rel="noopener noreferer"> [1] Alex Yumashev's article on Tabnabbing.</a></li> <li> <a href="https://owasp.org/www-community/attacks/Reverse_Tabnabbing" target="_blank" "rel="noopener noreferer"> [2] Reverse Tabnabbing - OWASP </a></li></ul> </small>
-	      </small></li>
-	    </ul>
-
-	  </div>
-	
-	</article>
-
-
-
-
+	<!-- <article> -->
+	<!--   <h2> 💡 Interesting things about this Site. </h2> -->
+	<!--   <div> -->
+	<!--     <ul> -->
+	<!--       <li> You'd be surprised but Yes, Its a Single HTML File.<label for="also">read more</label><input type="checkbox" id="also"><small> <p>This website is a single <abbr title="Hypertext Markup Language">HTML</abbr> file. It simply uses the <code>#anchor</code> suffix (from <a href="http://info.cern.ch/hypertext/WWW/Addressing/Addressing.html" target="_blank" rel="noopener noreferer">1992</a>) and the <code>:target</code> <abbr title="Cascading Style Sheets">CSS</abbr> selector to show and hide pages/content.</p></small> </li> -->
+	<!--       <li> The site inspired by minimal yet responsive layout of John Does's Site from <a href="https://john-doe.neocities.org" target="_blank" rel="noopener noreferrer">Neocities</a>.<label for="based">expand</label><input type="checkbox" id="based"> <small> <p> This website is databaseless, javascriptless, and builds#$t-free, so you can edit your website with a text editor and upload it somewhere like a normal person.</p></small> </li> -->
+	<!--       <li> Every Link on this site opens in new tab. <label for="tabs">but why</label><input type="checkbox" id="tabs"><small>You can always opens links on any site with SHIFT+CLICKS but in this site you dont have to. <textarea readonly rows="2"> <a href="<link>" target="_blank" rel="noopener noreferrer">link</a></textarea> To avoid Security concerns with <code>target="_blank"</code> I strongly recommend that you always add <code>rel="noreferrer noopener"</code> to the anchor element to prevent a type of phishing known as <a href="https://en.wikipedia.org/wiki/Tabnabbing" target="_blank" rel="noopener noreferer">tabnabbing</a>.<label for="tabnab">explain</label><input type="checkbox" id="tabnab"><small><ul> <li> <a href="https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/" target="_blank" rel="noopener noreferer"> [1] Alex Yumashev's article on Tabnabbing.</a></li> <li> <a href="https://owasp.org/www-community/attacks/Reverse_Tabnabbing" target="_blank" "rel="noopener noreferer"> [2] Reverse Tabnabbing - OWASP </a></li></ul> </small> -->
+	<!--       </small></li> -->
+	<!--     </ul> -->
+	<!---->
+	<!--   </div> -->
+	<!--  -->
+	<!-- </article> -->
 
 
 	<!-- <article> -->
@@ -226,7 +222,6 @@
 
       </section>
 
-
       <!-- ----------
       -- PORTFOLIO --
       -------------->
@@ -236,17 +231,17 @@
           <!-- <figure class="cover"> <img loading="lazy" alt="" src="img/snape.jpg"></figure> -->
           <!-- <figure class="cover"><img loading="lazy" alt="" src="img/Alwaysextract.jpg"></figure> -->
           <figure class="cover"><img loading="lazy" alt="" src="img/kingcross.jpg"></figure>
-          <figure style="background:#533d32">
-            <p>hogwarts is my home.</p>
+          <figure style="background:#000">
+            <h1>hogwarts is my home.</h1>
           </figure>
           <figure class="cover">
             <img loading="lazy" alt="" src="img/castleouter.jpg">
           </figure>
 	  <figure class="cover">
             <img loading="lazy" alt="" src="img/castle.jpg">
-            <figcaption>…in mystery and light</figcaption>
+            <figcaption>..in mystery and light</figcaption>
           </figure>
-          <figure style="background:#37433f">
+          <figure style="background:#000">
             <img loading="lazy" alt="" src="img/collage.jpg">
             <figcaption>together</figcaption>
           </figure>
@@ -256,7 +251,7 @@
           </figure>
            <figure class="cover">
             <img loading="lazy" alt="" src="img/hedwig.jpg">
-            <p style="color:#fff">Always.</p>
+            <p style="color:#44475a">Always.</p>
           </figure>
         </div>
 
@@ -297,7 +292,6 @@
     <a href="#photos" class="lightbox" id="img-16"><img loading="lazy" alt="" src="gl/pi.jpg"></a>
     <a href="#photos" class="lightbox" id="img-18"><img loading="lazy" alt="" src="gl/ol.png"></a>
 
-    
     <!-- Other images -->
     <!-- <a href="#blog" class="lightbox" id="nice-image"><img loading="lazy" alt="Oh my Friend Ganesha" src="img/gnes.png"></a> -->
     
