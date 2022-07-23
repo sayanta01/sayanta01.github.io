@@ -1,45 +1,45 @@
-# heading one
-## heading Two
+#sayanta#
+##sayanta##
 
 *italic*
 
-**Strong/Bold**
+**strong/bold**
 
-***italic/Bold***
- 
-~~Strikethrough~~
+***bold/italic***
 
-[link](https://sayanta01.github.io "title")
+~~strikethrough~~
 
-![alt text](devil.jpg "angel girl")
+[link](https://sayanta.github.io "title")
 
-Use `for` loop
+![alt text](https://learncodeonline.io/mascot.png "nerd")
 
-```javascript
-var name = "sayanta";
-console.log(name)
+use `for` loop
+
+```python
+print ("hellow world")
 ```
 
-|Table|Goes|Here|
-| --- |----|----|
-|ek   |Two |3
+|nm | name | mark |
+|---| ---  | ---- |
+|1  |sayanta| 7   |
+|2  | piya | 84   |
 
->Keep smilling and work harder
+
+> one line word
 
 1. order list 1
 1. order list 2
 1. order list 3
 
-- Bullet List
+- bullet list
 
 ---
 ***
 
-* item 1 
+* item 1
 * item 2
-  * nested item 1
-  * nested item 2
+* item 3
 
-* [x] Task 1
-* [x] Task 2
-* [ ] Task 3
+* [x] task 1
+* [x] task 2
+* [ ] task 3
