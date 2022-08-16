@@ -71,6 +71,17 @@ p, ul, ol, article {
     margin-bottom: .6em;
 }
 
+#links{
+  border-radius:6px;
+}
+
+#trip{
+  border-radius:6px;
+}
+
+#swim{
+  border-radius:6px;
+}
 
 header h1 {
     font-size: 2em;
@@ -118,12 +129,14 @@ neon {
 div {
     padding: 30px; 
     border:1px solid var(--highlight);
+    border-radius: 6px;
     margin-bottom: .6em;
 }
 
 edges {
     padding: 1vw;
     border: 1px solid var(--greencolor);
+    border-radius: 6px;
 }
 
 p {
@@ -151,12 +164,12 @@ aside {
     background: var(--bgcolor);
 }
 
-special-quote {
-    width: 30%;
-    font-family: 'Marck Script', cursive;
-    font-size: 130%;
-    color: var(--extracolor);
-}
+/* special-quote { */
+/*     width: 30%; */
+/*     font-family: 'Marck Script', cursive; */
+/*     font-size: 130%; */
+/*     color: var(--extracolor); */
+/* } */
 
 
 /* ------- Header ------- */
@@ -251,8 +264,6 @@ img, svg, video, audio {
   height: auto;
   fill: currentColor;
 }
-
-
 
 a code {
   opacity:1;
